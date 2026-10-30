@@ -4,7 +4,7 @@ A complete 180-second English teaching film with English captions, authentic spe
 
 ## 這個資料夾是什麼？
 
-這是影片的完整原始碼資料夾，可以上傳到你自己的 GitHub repository（程式碼儲存庫）。**這份 ZIP 本身不是 GitHub 網址，也沒有替你建立或發佈 GitHub 儲存庫。**
+這是影片的完整原始碼資料夾，可以上傳到你自己的 GitHub repository（程式碼儲存庫）。**本儲存庫包含影片製作原始碼、提示詞、字幕及參考來源**
 
 - `render_video.py`：畫面、圖表、自行車、受力及裂紋動畫。
 - `build_audio.py`：英文旁白、逐字時間戳與字幕製作。

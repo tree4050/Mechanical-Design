@@ -1,0 +1,163 @@
+1
+00:00:00,313 --> 00:00:03,337
+Fatigue failure: from small cracks to sudden fracture.
+
+2
+00:00:04,030 --> 00:00:06,020
+First, we explain the science.
+
+3
+00:00:06,701 --> 00:00:09,040
+Then, we apply it to a bicycle crank.
+
+4
+00:00:10,320 --> 00:00:15,252
+Metals can fail under repeated loading, even when stress stays below yield strength.
+
+5
+00:00:15,995 --> 00:00:19,953
+One safe-looking load does not mean thousands of repeated loads are safe.
+
+6
+00:00:23,317 --> 00:00:27,093
+This real titanium specimen shows a crack starting at a defect.
+
+7
+00:00:27,806 --> 00:00:31,981
+Scratches, holes, and sharp corners can also concentrate stress.
+
+8
+00:00:33,313 --> 00:00:35,302
+First, a small crack starts.
+
+9
+00:00:35,987 --> 00:00:38,046
+Repeated loads can then extend it.
+
+10
+00:00:38,743 --> 00:00:41,829
+As the crack grows, less intact metal carries the load.
+
+11
+00:00:42,514 --> 00:00:45,285
+Finally, the remaining section breaks rapidly.
+
+12
+00:00:45,982 --> 00:00:49,021
+Damage builds gradually; the last break looks sudden.
+
+13
+00:00:50,308 --> 00:00:53,592
+An S-N curve connects stress amplitude with cycles to failure.
+
+14
+00:00:54,228 --> 00:00:56,067
+Amplitude is half the stress range.
+
+15
+00:00:56,702 --> 00:01:01,082
+The horizontal axis is logarithmic: each step means ten times more cycles.
+
+16
+00:01:02,311 --> 00:01:07,054
+Follow three hundred megapascals across to the curve, then down: ten thousand cycles.
+
+17
+00:01:07,722 --> 00:01:11,175
+At one hundred eighty megapascals, read one million cycles.
+
+18
+00:01:11,842 --> 00:01:15,033
+Lower amplitude gives longer life under the same conditions.
+
+19
+00:01:16,313 --> 00:01:19,405
+These numbers are illustrative, not crank measurements.
+
+20
+00:01:20,100 --> 00:01:21,794
+Real test results scatter.
+
+21
+00:01:22,478 --> 00:01:27,026
+Some steels show a fatigue limit; aluminum alloys generally have no clear limit.
+
+22
+00:01:28,314 --> 00:01:32,023
+Fracture toughness means resistance to fracture from an existing crack.
+
+23
+00:01:32,713 --> 00:01:34,768
+K_I describes crack-tip loading.
+
+24
+00:01:35,469 --> 00:01:40,000
+K_Ic is the material's plane-strain fracture toughness under valid conditions.
+
+25
+00:01:41,320 --> 00:01:46,053
+Here, Y is a geometry factor, sigma is stress, and a is crack length.
+
+26
+00:01:46,795 --> 00:01:49,928
+This formula estimates the stress intensity factor.
+
+27
+00:01:51,319 --> 00:01:55,244
+Keep crack length fixed and increase stress: K_I rises.
+
+28
+00:01:55,981 --> 00:01:59,980
+Keep stress fixed and lengthen the crack: K_I usually rises.
+
+29
+00:02:01,320 --> 00:02:08,190
+With linear elasticity and plane strain, rapid fracture may occur when maximum K_I reaches K_Ic.
+
+30
+00:02:08,345 --> 00:02:11,552
+Fatigue cracks can still grow below this critical value.
+
+31
+00:02:15,314 --> 00:02:18,625
+Why can a bicycle crank suddenly break after repeated pedaling?
+
+32
+00:02:19,314 --> 00:02:22,026
+This arm transfers pedal force to the drivetrain.
+
+33
+00:02:23,305 --> 00:02:24,837
+Each stroke changes the load.
+
+34
+00:02:25,449 --> 00:02:30,091
+Pedal threads, axle connections, scratches, and sharp corners can concentrate stress.
+
+35
+00:02:31,320 --> 00:02:34,878
+This real broken crank shows fatigue growth and final fracture.
+
+36
+00:02:35,632 --> 00:02:38,165
+A small crack can grow over many uses.
+
+37
+00:02:40,306 --> 00:02:42,768
+Higher amplitude usually shortens fatigue life.
+
+38
+00:02:43,392 --> 00:02:47,095
+Longer cracks raise stress intensity, making rapid fracture possible.
+
+39
+00:02:48,320 --> 00:02:52,065
+Protect surfaces, notice changes, and check for cracks.
+
+40
+00:02:52,820 --> 00:02:54,740
+Stop using a suspect part.
+
+41
+00:02:55,482 --> 00:02:57,990
+References and photo credits are provided.

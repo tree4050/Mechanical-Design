@@ -1,0 +1,17 @@
+{
+  "duration_seconds": 180.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "frames": 4320,
+  "fps": 24,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate": 48000,
+  "concept_seconds": 135,
+  "bicycle_seconds": 45,
+  "caption_cues": 41,
+  "size_bytes": 8685076,
+  "checks": "passed"
+}

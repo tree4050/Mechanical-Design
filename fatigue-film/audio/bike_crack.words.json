@@ -1,0 +1,92 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 2875000,
+    "text": "This"
+  },
+  {
+    "offset": 4000000,
+    "duration": 2375000,
+    "text": "real"
+  },
+  {
+    "offset": 6500000,
+    "duration": 3250000,
+    "text": "broken"
+  },
+  {
+    "offset": 9875000,
+    "duration": 3375000,
+    "text": "crank"
+  },
+  {
+    "offset": 13375000,
+    "duration": 2875000,
+    "text": "shows"
+  },
+  {
+    "offset": 16375000,
+    "duration": 4000000,
+    "text": "fatigue"
+  },
+  {
+    "offset": 20500000,
+    "duration": 3500000,
+    "text": "growth"
+  },
+  {
+    "offset": 24125000,
+    "duration": 1625000,
+    "text": "and"
+  },
+  {
+    "offset": 25875000,
+    "duration": 3500000,
+    "text": "final"
+  },
+  {
+    "offset": 29500000,
+    "duration": 5875000,
+    "text": "fracture"
+  },
+  {
+    "offset": 44125000,
+    "duration": 1250000,
+    "text": "A"
+  },
+  {
+    "offset": 45500000,
+    "duration": 3375000,
+    "text": "small"
+  },
+  {
+    "offset": 49000000,
+    "duration": 3750000,
+    "text": "crack"
+  },
+  {
+    "offset": 52875000,
+    "duration": 1375000,
+    "text": "can"
+  },
+  {
+    "offset": 54375000,
+    "duration": 2875000,
+    "text": "grow"
+  },
+  {
+    "offset": 57375000,
+    "duration": 2000000,
+    "text": "over"
+  },
+  {
+    "offset": 59500000,
+    "duration": 2500000,
+    "text": "many"
+  },
+  {
+    "offset": 62125000,
+    "duration": 6125000,
+    "text": "uses"
+  }
+]

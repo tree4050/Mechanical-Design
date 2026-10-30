@@ -1,0 +1,92 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 2875000,
+    "text": "Why"
+  },
+  {
+    "offset": 4000000,
+    "duration": 1375000,
+    "text": "can"
+  },
+  {
+    "offset": 5500000,
+    "duration": 625000,
+    "text": "a"
+  },
+  {
+    "offset": 6250000,
+    "duration": 4750000,
+    "text": "bicycle"
+  },
+  {
+    "offset": 11125000,
+    "duration": 3375000,
+    "text": "crank"
+  },
+  {
+    "offset": 14625000,
+    "duration": 4250000,
+    "text": "suddenly"
+  },
+  {
+    "offset": 19000000,
+    "duration": 3125000,
+    "text": "break"
+  },
+  {
+    "offset": 22250000,
+    "duration": 2875000,
+    "text": "after"
+  },
+  {
+    "offset": 25250000,
+    "duration": 4250000,
+    "text": "repeated"
+  },
+  {
+    "offset": 29625000,
+    "duration": 5375000,
+    "text": "pedaling"
+  },
+  {
+    "offset": 43625000,
+    "duration": 2875000,
+    "text": "This"
+  },
+  {
+    "offset": 46625000,
+    "duration": 2625000,
+    "text": "arm"
+  },
+  {
+    "offset": 49375000,
+    "duration": 5875000,
+    "text": "transfers"
+  },
+  {
+    "offset": 55375000,
+    "duration": 3000000,
+    "text": "pedal"
+  },
+  {
+    "offset": 58500000,
+    "duration": 3250000,
+    "text": "force"
+  },
+  {
+    "offset": 61875000,
+    "duration": 875000,
+    "text": "to"
+  },
+  {
+    "offset": 62875000,
+    "duration": 1125000,
+    "text": "the"
+  },
+  {
+    "offset": 64125000,
+    "duration": 7125000,
+    "text": "drivetrain"
+  }
+]

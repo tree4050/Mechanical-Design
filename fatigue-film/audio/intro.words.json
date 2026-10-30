@@ -1,0 +1,107 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 4375000,
+    "text": "Fatigue"
+  },
+  {
+    "offset": 5500000,
+    "duration": 4750000,
+    "text": "failure"
+  },
+  {
+    "offset": 12750000,
+    "duration": 1750000,
+    "text": "from"
+  },
+  {
+    "offset": 14625000,
+    "duration": 3250000,
+    "text": "small"
+  },
+  {
+    "offset": 18000000,
+    "duration": 4125000,
+    "text": "cracks"
+  },
+  {
+    "offset": 22250000,
+    "duration": 1000000,
+    "text": "to"
+  },
+  {
+    "offset": 23375000,
+    "duration": 3125000,
+    "text": "sudden"
+  },
+  {
+    "offset": 26625000,
+    "duration": 5625000,
+    "text": "fracture"
+  },
+  {
+    "offset": 41000000,
+    "duration": 5125000,
+    "text": "First"
+  },
+  {
+    "offset": 47625000,
+    "duration": 1250000,
+    "text": "we"
+  },
+  {
+    "offset": 49000000,
+    "duration": 4625000,
+    "text": "explain"
+  },
+  {
+    "offset": 53750000,
+    "duration": 875000,
+    "text": "the"
+  },
+  {
+    "offset": 54750000,
+    "duration": 6375000,
+    "text": "science"
+  },
+  {
+    "offset": 69750000,
+    "duration": 3875000,
+    "text": "Then"
+  },
+  {
+    "offset": 75500000,
+    "duration": 1125000,
+    "text": "we"
+  },
+  {
+    "offset": 76750000,
+    "duration": 3375000,
+    "text": "apply"
+  },
+  {
+    "offset": 80250000,
+    "duration": 1250000,
+    "text": "it"
+  },
+  {
+    "offset": 81625000,
+    "duration": 1125000,
+    "text": "to"
+  },
+  {
+    "offset": 82875000,
+    "duration": 875000,
+    "text": "a"
+  },
+  {
+    "offset": 83875000,
+    "duration": 4750000,
+    "text": "bicycle"
+  },
+  {
+    "offset": 88750000,
+    "duration": 4875000,
+    "text": "crank"
+  }
+]

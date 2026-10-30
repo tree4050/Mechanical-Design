@@ -1,0 +1,107 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 3875000,
+    "text": "Here"
+  },
+  {
+    "offset": 6750000,
+    "duration": 2250000,
+    "text": "Y"
+  },
+  {
+    "offset": 9125000,
+    "duration": 1125000,
+    "text": "is"
+  },
+  {
+    "offset": 10375000,
+    "duration": 625000,
+    "text": "a"
+  },
+  {
+    "offset": 11125000,
+    "duration": 5625000,
+    "text": "geometry"
+  },
+  {
+    "offset": 16875000,
+    "duration": 5000000,
+    "text": "factor"
+  },
+  {
+    "offset": 23625000,
+    "duration": 4000000,
+    "text": "sigma"
+  },
+  {
+    "offset": 27750000,
+    "duration": 1250000,
+    "text": "is"
+  },
+  {
+    "offset": 29125000,
+    "duration": 4500000,
+    "text": "stress"
+  },
+  {
+    "offset": 35375000,
+    "duration": 1625000,
+    "text": "and"
+  },
+  {
+    "offset": 37125000,
+    "duration": 625000,
+    "text": "a"
+  },
+  {
+    "offset": 37875000,
+    "duration": 1375000,
+    "text": "is"
+  },
+  {
+    "offset": 39375000,
+    "duration": 3250000,
+    "text": "crack"
+  },
+  {
+    "offset": 42750000,
+    "duration": 4375000,
+    "text": "length"
+  },
+  {
+    "offset": 55750000,
+    "duration": 3000000,
+    "text": "This"
+  },
+  {
+    "offset": 58875000,
+    "duration": 5625000,
+    "text": "formula"
+  },
+  {
+    "offset": 64625000,
+    "duration": 5375000,
+    "text": "estimates"
+  },
+  {
+    "offset": 70125000,
+    "duration": 1125000,
+    "text": "the"
+  },
+  {
+    "offset": 71375000,
+    "duration": 3375000,
+    "text": "stress"
+  },
+  {
+    "offset": 74875000,
+    "duration": 5250000,
+    "text": "intensity"
+  },
+  {
+    "offset": 80250000,
+    "duration": 5625000,
+    "text": "factor"
+  }
+]

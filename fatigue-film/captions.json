@@ -1,0 +1,248 @@
+[
+  {
+    "start": 0.3129186228482003,
+    "end": 3.3366255868544603,
+    "text": "Fatigue failure: from small cracks to sudden fracture.",
+    "scene": "intro"
+  },
+  {
+    "start": 4.029663536776212,
+    "end": 6.019650821596244,
+    "text": "First, we explain the science.",
+    "scene": "intro"
+  },
+  {
+    "start": 6.701073943661971,
+    "end": 9.039506064162754,
+    "text": "Then, we apply it to a bicycle crank.",
+    "scene": "intro"
+  },
+  {
+    "start": 10.32,
+    "end": 15.2525,
+    "text": "Metals can fail under repeated loading, even when stress stays below yield strength.",
+    "scene": "loading"
+  },
+  {
+    "start": 15.995000000000001,
+    "end": 19.952500000000004,
+    "text": "One safe-looking load does not mean thousands of repeated loads are safe.",
+    "scene": "loading"
+  },
+  {
+    "start": 23.316544715447154,
+    "end": 27.09317581300813,
+    "text": "This real titanium specimen shows a crack starting at a defect.",
+    "scene": "specimen"
+  },
+  {
+    "start": 27.805873983739836,
+    "end": 31.980752032520325,
+    "text": "Scratches, holes, and sharp corners can also concentrate stress.",
+    "scene": "specimen"
+  },
+  {
+    "start": 33.31341032608695,
+    "end": 35.30161684782608,
+    "text": "First, a small crack starts.",
+    "scene": "growth"
+  },
+  {
+    "start": 35.987280910326085,
+    "end": 38.045545176630434,
+    "text": "Repeated loads can then extend it.",
+    "scene": "growth"
+  },
+  {
+    "start": 38.7428855298913,
+    "end": 41.82866338315217,
+    "text": "As the crack grows, less intact metal carries the load.",
+    "scene": "growth"
+  },
+  {
+    "start": 42.51432744565217,
+    "end": 45.28484544836956,
+    "text": "Finally, the remaining section breaks rapidly.",
+    "scene": "growth"
+  },
+  {
+    "start": 45.98218580163043,
+    "end": 49.021258491847824,
+    "text": "Damage builds gradually; the last break looks sudden.",
+    "scene": "growth"
+  },
+  {
+    "start": 50.30759902498477,
+    "end": 53.59211380255941,
+    "text": "An S-N curve connects stress amplitude with cycles to failure.",
+    "scene": "sn_axes"
+  },
+  {
+    "start": 54.22765539305301,
+    "end": 56.06678625837903,
+    "text": "Amplitude is half the stress range.",
+    "scene": "sn_axes"
+  },
+  {
+    "start": 56.702327848872635,
+    "end": 61.081830438756846,
+    "text": "The horizontal axis is logarithmic: each step means ten times more cycles.",
+    "scene": "sn_axes"
+  },
+  {
+    "start": 62.311314935064935,
+    "end": 67.05413352272727,
+    "text": "Follow three hundred megapascals across to the curve, then down: ten thousand cycles.",
+    "scene": "sn_read"
+  },
+  {
+    "start": 67.72172483766234,
+    "end": 71.17471996753247,
+    "text": "At one hundred eighty megapascals, read one million cycles.",
+    "scene": "sn_read"
+  },
+  {
+    "start": 71.84231128246753,
+    "end": 75.03277597402598,
+    "text": "Lower amplitude gives longer life under the same conditions.",
+    "scene": "sn_read"
+  },
+  {
+    "start": 76.31322308690012,
+    "end": 79.40470898184176,
+    "text": "These numbers are illustrative, not crank measurements.",
+    "scene": "sn_limits"
+  },
+  {
+    "start": 80.1004109922179,
+    "end": 81.79355058365759,
+    "text": "Real test results scatter.",
+    "scene": "sn_limits"
+  },
+  {
+    "start": 82.47759970817121,
+    "end": 87.02569633592736,
+    "text": "Some steels show a fatigue limit; aluminum alloys generally have no clear limit.",
+    "scene": "sn_limits"
+  },
+  {
+    "start": 88.31384384384384,
+    "end": 92.02337087087088,
+    "text": "Fracture toughness means resistance to fracture from an existing crack.",
+    "scene": "toughness"
+  },
+  {
+    "start": 92.71277402402403,
+    "end": 94.7683033033033,
+    "text": "K_I describes crack-tip loading.",
+    "scene": "toughness"
+  },
+  {
+    "start": 95.46943693693693,
+    "end": 100.0000975975976,
+    "text": "K_Ic is the material's plane-strain fracture toughness under valid conditions.",
+    "scene": "toughness"
+  },
+  {
+    "start": 101.32,
+    "end": 106.05250000000001,
+    "text": "Here, Y is a geometry factor, sigma is stress, and a is crack length.",
+    "scene": "formula"
+  },
+  {
+    "start": 106.795,
+    "end": 109.92750000000001,
+    "text": "This formula estimates the stress intensity factor.",
+    "scene": "formula"
+  },
+  {
+    "start": 111.31945561139028,
+    "end": 115.24363274706867,
+    "text": "Keep crack length fixed and increase stress: K_I rises.",
+    "scene": "ki_changes"
+  },
+  {
+    "start": 115.98143739530988,
+    "end": 119.98020623953099,
+    "text": "Keep stress fixed and lengthen the crack: K_I usually rises.",
+    "scene": "ki_changes"
+  },
+  {
+    "start": 121.32,
+    "end": 128.19,
+    "text": "With linear elasticity and plane strain, rapid fracture may occur when maximum K_I reaches K_Ic.",
+    "scene": "critical"
+  },
+  {
+    "start": 128.345,
+    "end": 131.5525,
+    "text": "Fatigue cracks can still grow below this critical value.",
+    "scene": "critical"
+  },
+  {
+    "start": 135.31384384384384,
+    "end": 138.62453453453455,
+    "text": "Why can a bicycle crank suddenly break after repeated pedaling?",
+    "scene": "bike"
+  },
+  {
+    "start": 139.31393768768768,
+    "end": 142.02637387387387,
+    "text": "This arm transfers pedal force to the drivetrain.",
+    "scene": "bike"
+  },
+  {
+    "start": 143.30491847826087,
+    "end": 144.83668817934782,
+    "text": "Each stroke changes the load.",
+    "scene": "bike_load"
+  },
+  {
+    "start": 145.4491100543478,
+    "end": 150.09101902173913,
+    "text": "Pedal threads, axle connections, scratches, and sharp corners can concentrate stress.",
+    "scene": "bike_load"
+  },
+  {
+    "start": 151.32,
+    "end": 154.8775,
+    "text": "This real broken crank shows fatigue growth and final fracture.",
+    "scene": "bike_crack"
+  },
+  {
+    "start": 155.6325,
+    "end": 158.165,
+    "text": "A small crack can grow over many uses.",
+    "scene": "bike_crack"
+  },
+  {
+    "start": 160.30632596685084,
+    "end": 162.76791781767957,
+    "text": "Higher amplitude usually shortens fatigue life.",
+    "scene": "bike_link"
+  },
+  {
+    "start": 163.39247928176795,
+    "end": 167.09500690607734,
+    "text": "Longer cracks raise stress intensity, making rapid fracture possible.",
+    "scene": "bike_link"
+  },
+  {
+    "start": 168.32,
+    "end": 172.065,
+    "text": "Protect surfaces, notice changes, and check for cracks.",
+    "scene": "care"
+  },
+  {
+    "start": 172.82,
+    "end": 174.74,
+    "text": "Stop using a suspect part.",
+    "scene": "care"
+  },
+  {
+    "start": 175.4825,
+    "end": 177.99,
+    "text": "References and photo credits are provided.",
+    "scene": "care"
+  }
+]

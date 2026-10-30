@@ -1,0 +1,124 @@
+{
+  "title": "Fatigue Failure: From Small Cracks to Sudden Fracture",
+  "duration": 180,
+  "fps": 24,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "voice": "en-US-AriaNeural",
+  "scenes": [
+    {
+      "id": "intro",
+      "start": 0,
+      "end": 10,
+      "title": "Fatigue Failure",
+      "speech": "Fatigue failure: from small cracks to sudden fracture. First, we explain the science. Then, we apply it to a bicycle crank."
+    },
+    {
+      "id": "loading",
+      "start": 10,
+      "end": 23,
+      "title": "Repeated loads can cause failure",
+      "speech": "Metals can fail under repeated loading, even when stress stays below yield strength. One safe-looking load does not mean thousands of repeated loads are safe."
+    },
+    {
+      "id": "specimen",
+      "start": 23,
+      "end": 33,
+      "title": "A crack needs a starting point",
+      "speech": "This real titanium specimen shows a crack starting at a defect. Scratches, holes, and sharp corners can also concentrate stress."
+    },
+    {
+      "id": "growth",
+      "start": 33,
+      "end": 50,
+      "title": "Slow damage. A sudden final break.",
+      "speech": "First, a small crack starts. Repeated loads can then extend it. As the crack grows, less intact metal carries the load. Finally, the remaining section breaks rapidly. Damage builds gradually; the last break looks sudden."
+    },
+    {
+      "id": "sn_axes",
+      "start": 50,
+      "end": 62,
+      "title": "Read an S-N curve",
+      "speech": "An S-N curve connects stress amplitude with cycles to failure. Amplitude is half the stress range. The horizontal axis is logarithmic: each step means ten times more cycles."
+    },
+    {
+      "id": "sn_read",
+      "start": 62,
+      "end": 76,
+      "title": "Higher amplitude, shorter life",
+      "speech": "Follow three hundred megapascals across to the curve, then down: ten thousand cycles. At one hundred eighty megapascals, read one million cycles. Lower amplitude gives longer life under the same conditions."
+    },
+    {
+      "id": "sn_limits",
+      "start": 76,
+      "end": 88,
+      "title": "A trend, with real-world variation",
+      "speech": "These numbers are illustrative, not crank measurements. Real test results scatter. Some steels show a fatigue limit; aluminum alloys generally have no clear limit."
+    },
+    {
+      "id": "toughness",
+      "start": 88,
+      "end": 101,
+      "title": "Loading versus resistance",
+      "speech": "Fracture toughness means resistance to fracture from an existing crack. K one describes crack-tip loading. K one C is the material's plane-strain fracture toughness under valid conditions."
+    },
+    {
+      "id": "formula",
+      "start": 101,
+      "end": 111,
+      "title": "What controls stress intensity?",
+      "speech": "Here, Y is a geometry factor, sigma is stress, and a is crack length. This formula estimates the stress intensity factor."
+    },
+    {
+      "id": "ki_changes",
+      "start": 111,
+      "end": 121,
+      "title": "Two ways to increase K_I",
+      "speech": "Keep crack length fixed and increase stress: K one rises. Keep stress fixed and lengthen the crack: K one usually rises."
+    },
+    {
+      "id": "critical",
+      "start": 121,
+      "end": 135,
+      "title": "Growth can begin before rapid fracture",
+      "speech": "With linear elasticity and plane strain, rapid fracture may occur when maximum K one reaches K one C. Fatigue cracks can still grow below this critical value."
+    },
+    {
+      "id": "bike",
+      "start": 135,
+      "end": 143,
+      "title": "Why can a bicycle crank suddenly break?",
+      "speech": "Why can a bicycle crank suddenly break after repeated pedaling? This arm transfers pedal force to the drivetrain."
+    },
+    {
+      "id": "bike_load",
+      "start": 143,
+      "end": 151,
+      "title": "Each pedal stroke changes the load",
+      "speech": "Each stroke changes the load. Pedal threads, axle connections, scratches, and sharp corners can concentrate stress."
+    },
+    {
+      "id": "bike_crack",
+      "start": 151,
+      "end": 160,
+      "title": "The final break hides a longer history",
+      "speech": "This real broken crank shows fatigue growth and final fracture. A small crack can grow over many uses."
+    },
+    {
+      "id": "bike_link",
+      "start": 160,
+      "end": 168,
+      "title": "Connect the three ideas",
+      "speech": "Higher amplitude usually shortens fatigue life. Longer cracks raise stress intensity, making rapid fracture possible."
+    },
+    {
+      "id": "care",
+      "start": 168,
+      "end": 180,
+      "title": "Protect. Notice. Inspect.",
+      "speech": "Protect surfaces, notice changes, and check for cracks. Stop using a suspect part. References and photo credits are provided."
+    }
+  ]
+}
